@@ -3,5 +3,7 @@
 ###
 
 
-source(1_read_data.R)
+source(0_read_data.R)
+
+source(1_clean_data.R)
 
