@@ -1,12 +1,6 @@
 ###
-# Este es el archivo maestro
+# Este es el archivo maestro campeon del mundo
 ###
 
+# Quememos las naves
 
-source(0_read_data.R)
-
-source(1_clean_data.R)
-
-source(2_descriptive_stats.R)
-
-source(3_whatever.R)
